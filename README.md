@@ -1,6 +1,6 @@
 This is project purely base on Object Oriented programming in C++.
 This project is just the sample working of Librabry Management system performs the tasks given below:
---> Takes username and password by user if not registered.
+--> Takes username and password by user if not registered. 
 --> Check for username and respective password if user is about to log in.
 --> Add a student to the library membership.
 --> Asks for books to be issued and removes books which has returned to library again.
