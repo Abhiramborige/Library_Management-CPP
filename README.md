@@ -19,4 +19,4 @@
 * Time module
 * Modular Approach in programming
 
-### Hope it helps :bowtie::smile::smiley:
+### Hope it helps :smile::smiley:
